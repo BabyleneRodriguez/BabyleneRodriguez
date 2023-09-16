@@ -5,5 +5,8 @@
 </h1>
 
 <p align="center">
-    <img width="200" src="![21-10963-681 (1)](https://github.com/BabyleneRodriguez/myPortfolio/assets/142875371/c2b8ef42-7ffc-4af5-89d4-12466b5f2535)">
+    <img src="https://github.com/BabyleneRodriguez/myPortfolio/assets/142875371/c2b8ef42-7ffc-4af5-89d4-12466b5f2535" width="200" />
 </p>
+
+
+
