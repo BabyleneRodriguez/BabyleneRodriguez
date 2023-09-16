@@ -18,7 +18,7 @@
 
 I am Babylene G. Rodriguez, 20 years old from Taytay, Rizal and I was born on November 7, 2002. A Junior majoring in the Bachelor of Computer Science from the College of New Era University-Main Campus.
 
-Video editing, photography, and programming are one of the things that fascinate me. Furthermore, when it comes to technical specialties I am proficiently skilled in Eclipse, Microsoft Office, HTML, CSS, and IBM DB2 Database. I am deeply resolved to refining my technical skills and constantly honing them by surfacing my fullest potential. 
+Video editing, photography, and programming are one of the things that fascinate me. Furthermore, when it comes to technical specialties I am proficiently skilled in Eclipse, HTML, CSS, and IBM DB2 Database. I am deeply resolved to refining my technical skills and constantly honing them by surfacing my fullest potential. 
 
 On the other hand, during my time in college, I accomplished my Oracle and Cognitive Class certifications. 
 
@@ -26,13 +26,17 @@ On the other hand, during my time in college, I accomplished my Oracle and Cogni
 
 ## Languages and Tools  
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![Eclipse](https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Css](https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-  
+![Adobe Lightroom](https://img.shields.io/badge/AdobeLightroom-%2300f.svg?style=for-the-badge&logo=adobelightroom&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+
 -------------------
 
 ## Certificates
@@ -206,21 +210,19 @@ SQL and Relational Databases 101
 
 -------------------
 
-## Contact with Me
+## Connect with Me
 
 <p align="center">
   <a href="mailto:babylene.rodriguez@neu.edu.ph">
      <img  src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
   <a/>&nbsp;
-  <a href="https://www.linkedin.com/in/babylene-rodriguez">
+  <a href="https://www.linkedin.com/in/babylene-rodriguez-670865252/">
      <img  src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="email">
   <a/>&nbsp;
-  <a href="https://twitter.com/ahmadiF__">
-     <img  src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter">
-  <a/>&nbsp;
-  <a href="https://farahelahmadi.me">
-     <img  src="https://img.shields.io/badge/website-C3897E?style=for-the-badge&logo=about.me&logoColor=white" alt="website">
+  <a href="https://github.com/BabyleneRodriguez">
+     <img  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github">
   <a/>
+    
 <p/>
 
  <div>
