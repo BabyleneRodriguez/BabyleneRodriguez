@@ -5,5 +5,5 @@
 </h1>
 
 <p align="center">
-    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
+    <img width="200" src="![21-10963-681 (1)](https://github.com/BabyleneRodriguez/images-in-readme/assets/142875371/d8c075c9-fe4e-43b0-93ff-8b41b298f0db)">
 </p>
