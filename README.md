@@ -16,7 +16,7 @@
   
 ## About
 
-I am Babylene G. Rodriguez, 20 years old from Taytay, Rizal and I was born on November 7, 2002. A Junior majoring in the Bachelor of Computer Science from the College of New Era University-Main Campus.
+I am Babylene G. Rodriguez, 20 years old from Taytay, Rizal. A Junior majoring in the Bachelor of Computer Science from the College of New Era University-Main Campus.
 
 Video editing, photography, and programming are one of the things that fascinate me. Furthermore, when it comes to technical specialties I am proficiently skilled in Eclipse, HTML, CSS, and IBM DB2 Database. I am deeply resolved to refining my technical skills and constantly honing them by surfacing my fullest potential. 
 
