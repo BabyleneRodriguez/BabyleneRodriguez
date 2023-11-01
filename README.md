@@ -40,173 +40,35 @@ On the other hand, during my time in college, I accomplished my Oracle and Cogni
 -------------------
 
 ## Certificates
-
+  
 &nbsp; 
 &nbsp; 
 &nbsp; 
-&nbsp; 
-&nbsp; 
-
-<p align="center">
-    
-  <img src = "https://github.com/BabyleneRodriguez/images-in-readme/assets/142875371/aa2d3448-6b84-4221-ad25-2964b1f697d5" width="200" />
-
-</p>
-
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-
-<img src = "https://github.com/BabyleneRodriguez/images-in-readme/assets/142875371/9b77be61-7386-4215-b335-af0bdb1e0c19" width="500" align="center">
-<p></p>
-
-<p> 07 September 2023 </p>
 
 <a href="https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiI2NjQiLCJjZXJ0aWZpY2F0ZV91cmwiOiJodHRwczpcL1wvY2VydGlmaWNhdGVzLnNpbXBsaWNkbi5uZXRcL3NoYXJlXC90aHVtYl80NDk4NDMxXzE2OTQwNzM0NzYucG5nIiwidXNlcm5hbWUiOiJCYWJ5bGVuZSBHLiBSb2RyaWd1ZXoifQ%3D%3D&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fdashboard%2Fcertificate&%24web_only=true&_branch_match_id=1151846563764922017&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVzyisTMnO8vENdU4CAGAgPsYlAAAA">
 Business Analytics with Excel
 </a>
+<p> 07 September 2023 </p>
 
 <p></p>
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp;
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-<p></p>
-
-<p align="center">
-    
-  <img src = "https://github.com/BabyleneRodriguez/images-in-readme/assets/142875371/6c781ed0-1cac-4c98-9f9f-30e64104dce5" width="200" />
-
-</p>
-
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-
-<img src = "https://github.com/BabyleneRodriguez/images-in-readme/assets/142875371/6d3d0105-d2be-4ee6-942f-9ae19eedd578" width="500" align="center">
-<p></p>
-
-<p> 29 November 2022 </p>
-
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=0F40E2C38F1F752CB2DA730700DF675624CFBB883C3095DE677F7FCE6AC50D2A">
 Oracle Cloud Data Management 2022 Foundations Certified Associate
 </a>
+<p> 29 November 2022 </p>
 
 <p></p>
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-<p></p>
-
-<img src = "https://github.com/BabyleneRodriguez/images-in-readme/assets/142875371/923a85ea-6ab3-4225-83eb-5a75b782e32b" width="500" align="center">
-<p></p>
-
-<p> 23 November 2022 </p>
 
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=228A229284438085454C8B3C4847A02EE0A5B85FB58C8B5AF63AF76CFAF30C75">
 Oracle Cloud Infrastructure 2022 Certified Foundations Associate
 </a>
+<p> 23 November 2022 </p>
 
 <p></p>
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp;
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-<p></p>
-
-<p align="center">
-    
-  <img src = "https://github.com/BabyleneRodriguez/images-in-readme/assets/142875371/fff4a62a-58bd-4ebd-aa11-ce52b3578500" width="200" />
-
-</p>
-
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-
-<img src = "https://github.com/BabyleneRodriguez/images-in-readme/assets/142875371/e1e19041-20b8-4879-b892-b3fb56c88f58" width="500" align="center">
-<p></p>
-
-<p> 2 November 2022 </p>
 
 <a href="https://courses.cognitiveclass.ai/certificates/3444a24460d149409c936d6ab7fb4711">
 SQL and Relational Databases 101
 </a>
+<p> 2 November 2022 </p>
 
 -------------------
 
