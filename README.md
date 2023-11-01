@@ -41,10 +41,6 @@ On the other hand, during my time in college, I accomplished my Oracle and Cogni
 
 ## Certificates
   
-&nbsp; 
-&nbsp; 
-&nbsp; 
-
 <a href="https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiI2NjQiLCJjZXJ0aWZpY2F0ZV91cmwiOiJodHRwczpcL1wvY2VydGlmaWNhdGVzLnNpbXBsaWNkbi5uZXRcL3NoYXJlXC90aHVtYl80NDk4NDMxXzE2OTQwNzM0NzYucG5nIiwidXNlcm5hbWUiOiJCYWJ5bGVuZSBHLiBSb2RyaWd1ZXoifQ%3D%3D&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fdashboard%2Fcertificate&%24web_only=true&_branch_match_id=1151846563764922017&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVzyisTMnO8vENdU4CAGAgPsYlAAAA">
 Business Analytics with Excel
 </a>
