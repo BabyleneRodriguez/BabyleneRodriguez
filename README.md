@@ -67,7 +67,7 @@ SQL and Relational Databases 101
 
 - [**Snack Report using DAX**](https://app.powerbi.com/view?r=eyJrIjoiMDdiNDVmNGUtNzQyNy00Y2UxLWJlMTQtOWExN2VlOWQyNjIxIiwidCI6IjQzMzczMTJmLTEwYTQtNDNjMC05MmVkLTlmMTk5MWNiMGE2YiIsImMiOjEwfQ%3D%3D)
 - [**Soda Report for the Year 2022**](https://app.powerbi.com/view?r=eyJrIjoiZDhhMDZiNzMtYTAyNC00ZWQ4LWE5NmQtZWYxN2IzMjY4ODFlIiwidCI6IjQzMzczMTJmLTEwYTQtNDNjMC05MmVkLTlmMTk5MWNiMGE2YiIsImMiOjEwfQ%3D%3D)
-- 
+- [**Professional Elective 4 Stats**](https://app.powerbi.com/view?r=eyJrIjoiMTMyMmVjZjUtZDNkNS00NTVhLTg1ZDktNDk0NDU5MjZiZDUxIiwidCI6IjQzMzczMTJmLTEwYTQtNDNjMC05MmVkLTlmMTk5MWNiMGE2YiIsImMiOjEwfQ%3D%3D)
 -------------------
 
 ## Software Engineering Design Patterns
