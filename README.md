@@ -126,6 +126,9 @@ SQL and Relational Databases 101
 -------------------
 
  <div>
+
+ <a title="Privacy-friendly Web Analytics" href="https://clicky.com/101464478"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101464478" src="//static.getclicky.com/js"></script>
    
 
 
