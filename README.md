@@ -125,9 +125,9 @@ SQL and Relational Databases 101
 
 -------------------
 
-<a title="GDPR-compliant Web Analytics" href="https://clicky.com/101464478"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
-<script async src="//static.getclicky.com/101464478.js"></script>
-<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101464478ns.gif" /></p></noscript>
+<a title="GDPR-compliant Web Analytics" href="https://clicky.com/101464486"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101464486" src="//static.getclicky.com/js"></script>
+
  <div>
 
 
