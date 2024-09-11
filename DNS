@@ -41,5 +41,7 @@ http {
 		
 		### / CLICKY 
 
+nginx -s reload
+
 	}
 }
