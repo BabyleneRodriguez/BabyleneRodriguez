@@ -1,5 +1,5 @@
 <p align="center">
-  <img src = "https://github.com/BabyleneRodriguez/myPortfolio/assets/142875371/245a9403-b034-4688-a487-fa68595229b7" width="200" />
+  <img src = "https://github.com/BabyleneRodriguez/babylenerdrgz-portfolio/blob/master/src/assets/BabyleneR" width="200" />
 </p>
 
 <div align="center">
